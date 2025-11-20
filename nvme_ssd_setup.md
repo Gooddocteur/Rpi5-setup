@@ -70,6 +70,8 @@ The following materials were used for this tutorial:
        height="500">
 </div>
 
+>Note: *Align the GPIO pins CAREFULLY to avoid bending them!!*
+
 ## Step 6: Install NVME SSD Drive
 
 <div style="text-align: center;">
