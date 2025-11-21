@@ -5,6 +5,26 @@
 [creativeact.net](www.creativeact.net)</details>
 
 <div align="center">
+  <h2>Assembly Quick Start</h2>
+
+  <div style="align: center;">
+    <img src="https://github.com/Jewelzufo/Rpi5-setup/blob/main/quick-final.jpg?raw=true" 
+         alt="Rpi5 final setup" 
+         width="600" 
+         height="600">
+  </div>
+</div>
+
+>- **Estimated Duration**: 30 minutes
+>- **Difficulty**: Beginner
+
+This tutorial walks your through the steps of assembling an enclosure for your Raspberry Pi device!
+
+**Repo**: [Quickstart](https://github.com/Jewelzufo/Rpi5-setup/blob/main/quickstart_setup_guide.md)
+
+---
+
+<div align="center">
   <h2>Setting up an NVME SSD Hat & Drive</h2>
 
   <div style="align: center;">
